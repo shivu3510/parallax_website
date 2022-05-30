@@ -11,21 +11,21 @@ body{
 
 
 .pimg1{
-   background-image: url(../parallax/img/seen2.jpg);
+   background-image: url(../img/seen2.jpg);
     min-height: 100%;
 }
 
 .pimg2{
-    background-image: url(../parallax/img/seen.jpg);
+    background-image: url(../img/seen.jpg);
      min-height: 100%;
  }
 
  .pimg3{
-    background-image: url(../parallax/img/seen1.jpg);
+    background-image: url(../img/seen1.jpg);
      min-height: 100%;
  }
  .pimg4{
-    background-image: url(../parallax/img/seen3.jpg);
+    background-image: url(../seen3.jpg);
      min-height: 100%;
  }
 .pimg1,.pimg2,.pimg3,.pimg4{
