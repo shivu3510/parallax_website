@@ -1,0 +1,64 @@
+html,
+body{
+    height: 100%;
+    margin: 0;
+    line-height: 1.8em;
+    color: rgb(187, 186, 184);
+    font-weight: 400;
+    font-family:"Lato", sans-serif;
+    font-size: 16px;
+}
+
+
+.pimg1{
+   background-image: url(../parallax/img/seen2.jpg);
+    min-height: 100%;
+}
+
+.pimg2{
+    background-image: url(../parallax/img/seen.jpg);
+     min-height: 100%;
+ }
+
+ .pimg3{
+    background-image: url(../parallax/img/seen1.jpg);
+     min-height: 100%;
+ }
+ .pimg4{
+    background-image: url(../parallax/img/seen3.jpg);
+     min-height: 100%;
+ }
+.pimg1,.pimg2,.pimg3,.pimg4{
+    background-repeat: no-repeat;
+     background-size: cover;
+   position: relative;
+   background-position: center;
+   background-attachment: fixed;
+ }
+ .ptext{
+     position: absolute;
+     top: 50%;
+     width: 100%;
+     text-align: center;
+     color: black;
+     letter-spacing: 8px;
+     text-transform: uppercase;
+ }
+ .textbg{
+     background-color: rgb(6, 7, 7);
+     color: aliceblue;
+     padding: 20px;
+ }
+
+ .section{
+     padding: 50px 80px;
+     text-align: center;
+ }
+ .section-light{
+     background-color: rgb(235, 227, 227);
+     color: rgb(7, 7, 7);
+ }
+ .section-dark{
+    background-color: rgb(53, 51, 51);
+    color: rgb(209, 201, 201);
+}
